@@ -217,4 +217,4 @@ tmp/
 credentials.json**
 token.json
 
-venv/
+/venv
